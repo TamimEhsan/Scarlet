@@ -47,23 +47,24 @@ The main features of the project are
 
 ##### Login
 
-![Login](G:\JavaFX\Scarlet\Assets\login.PNG)
+![Login](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/login.PNG)
 
 ##### User consoles
 
-![](G:\JavaFX\Scarlet\Assets\menuClient.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/menuClient.PNG)
 
-![](G:\JavaFX\Scarlet\Assets\search1.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search1.PNG)
 
-![](G:\JavaFX\Scarlet\Assets\search2.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search2.PNG)
 
-![](G:\JavaFX\Scarlet\Assets\buyCar.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/buyCar.PNG)
 
 ##### Manufacturer Console
 
-![](G:\JavaFX\Scarlet\Assets\manufacturerConsole.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/manufacturerConsole.PNG)
 
-![](G:\JavaFX\Scarlet\Assets\addCar2.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/addCar2.PNG)
 
-![](G:\JavaFX\Scarlet\Assets\editCar.PNG)
+![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/editCar.PNG)
+
 
