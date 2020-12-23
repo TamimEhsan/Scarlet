@@ -1,13 +1,18 @@
 # Scarlet
+
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/logo.jpg">
+
 Scarlet is a car warehouse management system made with JavaFX and Java networking. This is the term project of Level-1 Term-2. 
 
 NB. Due to covid pandemic our usual term project was cancelled and this easy version was given.
+
+Full demo of the project can be found [Scarlet: A Car retailer simulating software using JavaFX and Socket Networking](https://youtu.be/8guI1ndLWDQ)
 
 ## Task assigned
 
 We were to implement a model of a car buy,sell system.
 
-The server has the data stored and will be used for communication between clients and serverside login validation.
+The server has the data stored and will be used for communication between clients and server side login validation.
 
 The viewer needs no login validation. But the manufacturer side will be validated from server.
 
@@ -51,7 +56,7 @@ The main features of the project are
 
 #### Data Show
 
-<img height="100" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/listCell.jpg">
+<img height="200" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/listCell.jpg">
 
 #### User consoles
 
