@@ -23,7 +23,7 @@ The system is designed into two part: frontend and backend. The front end shows 
   - Manufacturer
   - Buyer
 
-### Design patters
+### Design patterns
 
 In this I used namely two pattern
 
@@ -43,40 +43,40 @@ The main features of the project are
 - Server side validation
 - Auto update of data
 
-#### The UIs
+### The UIs
 
-##### Login
+#### Login
 
-<img height="300" align='right' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/login.gif">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/login.gif">
 
-##### Data Show
+#### Data Show
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/listCell.jpg">
+<img height="100" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/listCell.jpg">
 
-##### User consoles
+#### User consoles
 
 The Menu
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/clientMenu.jpg">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/clientMenu.jpg">
 
 Search car console
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search.jpg">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search.jpg">
 
 Live search
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/liveSearch.gif">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/liveSearch.gif">
 
-##### Manufacturer Console
+#### Manufacturer Console
 
 Manufacturer console
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/manufacturerConsole.jpg">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/manufacturerConsole.jpg">
 
 Add car console
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/addCar.jpg">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/addCar.jpg">
 
 Validation of data
 
-<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/validation.jpg">
+<img height="400" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/validation.jpg">
