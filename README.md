@@ -47,24 +47,36 @@ The main features of the project are
 
 ##### Login
 
-![Login](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/login.PNG)
+<img height="300" align='right' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/login.gif">
+
+##### Data Show
+
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/listCell.jpg">
 
 ##### User consoles
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/menuClient.PNG)
+The Menu
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search1.PNG)
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/clientMenu.jpg">
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search2.PNG)
+Search car console
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/buyCar.PNG)
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/search.jpg">
+
+Live search
+
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/liveSearch.gif">
 
 ##### Manufacturer Console
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/manufacturerConsole.PNG)
+Manufacturer console
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/addCar2.PNG)
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/manufacturerConsole.jpg">
 
-![](https://github.com/TamimEhsan/Scarlet/blob/master/Assets/editCar.PNG)
+Add car console
 
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/addCar.jpg">
 
+Validation of data
+
+<img height="300" align='center' src="https://github.com/TamimEhsan/Scarlet/blob/master/Assets/validation.jpg">
