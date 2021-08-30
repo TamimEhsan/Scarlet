@@ -22,9 +22,9 @@ The user can view cars in the showroom and buy them. The user can also search ca
 
 The system is designed into two part: frontend and backend. The front end shows two type of behaviours: Manufacturer and user. The front end and backend is connected by socket.
 
-- Frontend
-  - Server
 - Backend
+  - Server
+- Frontend
   - Manufacturer
   - Buyer
 
